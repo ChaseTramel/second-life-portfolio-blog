@@ -20,4 +20,4 @@ theme = "Huey"
 
 [module]
     [[module.imports]]
-        path = "github.com/username/huey"
+        path = "github.com/alloydwhitlock/huey"

@@ -18,6 +18,3 @@ theme = "Huey"
         url = "/projects/"
         weight = 3
 
-[module]
-    [[module.imports]]
-        path = "github.com/alloydwhitlock/huey"

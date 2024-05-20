@@ -1,0 +1,19 @@
+languageCode = 'en-us'
+title = 'Kasey Littlepaws - Second Life Creator'
+theme = "Huey"
+
+
+[menu]
+
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name = "Blog"
+        url = "/posts/"
+        weight = 2
+    [[menu.main]]
+        name = "Projects"
+        url = "/projects/"
+        weight = 3

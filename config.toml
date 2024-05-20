@@ -17,3 +17,7 @@ theme = "Huey"
         name = "Projects"
         url = "/projects/"
         weight = 3
+
+[[module]]
+    [[module.imports]]
+        path = "github.com/username/huey"
